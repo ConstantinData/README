@@ -26,6 +26,6 @@ In meinen Repositories finden Sie eine Sammlung von Datenanalyseprojekten, Codie
 
 ## 📬 Lassen Sie uns vernetzen
 
-Ich freue mich immer, mich mit anderen Datenenthusiasten, Entwicklern und allen, die sich für die Welt der Datenanalyse interessieren, zu vernetzen. Lassen Sie uns gemeinsam lernen, wachsen und schaffen. Kontaktieren Sie mich gerne auf [https://www.linkedin.com/in/constantin-naum/]
+Ich freue mich immer, mich mit anderen Datenenthusiasten, Entwicklern und allen, die sich für die Welt der Datenanalyse interessieren, zu vernetzen. Lassen Sie uns gemeinsam lernen, wachsen und schaffen. Kontaktieren Sie mich gerne auf [https://www.linkedin.com/in/constantin-naum-73133630a/]
 
 Vielen Dank, dass Sie mein GitHub-Profil besuchen. Lassen Sie uns gemeinsam auf diese datengetriebene 
